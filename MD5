@@ -1,0 +1,7 @@
+9407c1b5e231f09f5362a1984caed836 *DESCRIPTION
+20b6ad3908d1502174a8bd6a3e4c6b3b *NAMESPACE
+58dee0dc87c4acad367e75ac3fd56201 *R/groupRemMap.CV.R
+d319d4dee121ae054a0d60e3c7fcb811 *R/groupRemMap.R
+d3d915bc9aefd40a23ba5b2788305d9f *man/groupRemMap.Rd
+603067832d3f3e1e50833dd6b9dc79a0 *man/groupRemMap.cv.Rd
+4bf28058945b85709bbf15f3df6baa90 *src/groupremmap.c
